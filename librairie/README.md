@@ -1,6 +1,5 @@
 # Llibrairie app
-
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/how-to/use-a-frontend-library).
+une simple application pour tester les fonctionnalités possible avec neutralino.js
 
 ## License
 
