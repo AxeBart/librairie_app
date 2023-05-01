@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/simplegrid.min.css">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div id="app">
+        <div class="">
+            <div class="navbar">
+                <div class="title btn-pink">
+                    <h2>Librairie</h2>
+                </div>
+                <div class="nav">
+                    <div class="nav-item" @click = "on_switch('home')"><h4>Dashboard</h4></div>
+                    <div class="nav-item" @click = "on_switch('books')"><h4>Books</h4></div>
+                    <div class="nav-item" @click = "on_switch('stats')"><h4>Stats</h4></div>
+                    <div class="nav-item" @click = "on_switch('parametres')"><h4>Parametres</h4></div>
+                    <div class="nav-item" onclick = "Neutralino.app.exit();"><h4>Quit</h4></div>
+                </div>
+            </div>
+            <br>
+            <div class="view">                
+                <component :is="isSeen" @on-switch = "on_switch"/>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div>
+        <canvas id="myChart"></canvas>
+      </div> -->
+      
+      <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      
+      <script>
+        const ctx = document.getElementById('myChart');
+      
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+              label: '# of Votes',
+              data: [12, 19, 3, 5, 2, 3],
+              borderWidth: 1,
+              tension : 0.3
+            }]
+          },
+          
+          options: {
+            scales: {
+              y: {
+                beginAtZero: true,
+                grid :{
+                    drawOnChartArea : false
+                }
+              },
+              x : {
+                grid :{
+                    drawOnChartArea : false
+                }
+              }
+            }
+          }
+        });
+      </script>
+       -->
+
+   
+
+
+    <script src="./js/neutralino.js"></script>
+    <script src="./js/chart.js"></script>
+    <script src="./js/vue.global.js"></script>
+    <script type="module" src="./js/main.js"></script>
+    <script src="./js/frontui.js"></script>
+   
+</body>
+</html>

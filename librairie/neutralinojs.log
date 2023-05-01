@@ -1,0 +1,127 @@
+INFO 2023-03-27 08:14:23,891 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-03-27 08:14:25,737 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-03-27 10:00:27,000 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-03-27 10:00:28,895 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-03-27 10:06:28,348 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-03-27 10:06:29,737 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-03-27 10:07:22,094 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-03-27 10:07:23,868 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:41:20,643 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:41:22,757 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:41:49,178 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:41:51,050 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:43:37,070 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:43:39,054 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:45:23,667 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:45:25,584 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:45:25,585 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:45:35,142 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:45:36,612 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:47:36,065 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:47:39,350 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:47:40,084 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:47:51,766 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:47:53,186 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:48:03,480 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:48:05,284 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:48:05,377 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:48:09,095 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:48:31,555 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:48:49,872 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:49:13,676 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:49:48,344 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:51:09,696 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 10:52:38,524 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:52:40,484 NE_SR_UNBPARS: Unable to parse native call payload api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 10:52:40,485 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-07 11:01:43,526 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-07 11:01:45,568 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 02:36:10,285 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 02:36:12,745 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 02:52:24,005 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 02:52:26,229 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 02:53:46,187 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 02:53:48,531 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 08:02:39,349 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 08:02:41,860 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 14:18:11,408 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 14:18:15,169 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 14:19:36,273 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 14:19:38,711 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 14:20:52,390 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 14:20:54,710 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-21 14:21:05,652 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-21 14:21:08,195 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-22 03:07:55,563 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-22 03:07:58,419 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-23 17:23:46,865 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-23 17:23:50,096 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-23 18:15:19,347 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-23 18:15:21,517 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-23 18:32:12,196 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-23 18:32:14,632 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-24 05:54:07,816 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-24 05:54:11,091 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-24 06:21:48,259 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-24 06:21:50,872 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-24 14:05:57,885 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-24 14:06:01,004 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-25 12:33:38,942 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-25 12:33:42,228 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-25 13:13:33,453 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-25 13:13:36,116 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 05:51:22,005 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 05:51:25,429 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 06:39:16,391 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:39:18,927 NE_RS_UNBLDRE: Unable to load application resource file /resources/components/home.js api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:39:18,928 NE_RS_UNBLDRE: Unable to load application resource file /resources/components/rapport.js api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:39:19,196 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:40:10,468 NE_RS_UNBLDRE: Unable to load application resource file /resources/components/home.js api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:40:10,468 NE_RS_UNBLDRE: Unable to load application resource file /resources/components/rapport.js api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 06:42:08,237 NE_RS_UNBLDRE: Unable to load application resource file /resources/components/rapport.js api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:24:00,488 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:24:02,682 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:32:46,739 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:32:49,069 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:37:52,738 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:37:55,080 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:42:53,728 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:42:56,268 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:43:14,526 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:43:16,941 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:44:51,554 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:44:53,842 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:45:10,516 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:45:12,841 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:45:32,275 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:45:34,566 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:45:47,760 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:45:50,159 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:46:23,739 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:46:26,181 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:47:25,184 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:47:27,471 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 09:47:54,564 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 09:47:57,000 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-26 21:36:01,848 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-26 21:36:04,703 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-27 13:13:08,269 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-27 13:13:11,704 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-27 13:42:06,141 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-27 13:42:10,588 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-27 13:42:53,017 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-27 13:42:55,246 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-27 13:43:49,705 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-27 13:43:52,411 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-27 14:20:54,426 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-27 14:20:56,792 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-28 09:11:48,588 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-28 09:11:51,922 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-28 09:47:48,404 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-28 09:47:50,631 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-28 12:12:00,101 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-28 12:12:02,891 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-29 08:32:22,253 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-29 08:32:26,371 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
+INFO 2023-04-29 08:51:03,292 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 Lenovo ThinkPad@DESKTOP-TBML7SH
+ERROR 2023-04-29 08:51:05,767 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 Lenovo ThinkPad@DESKTOP-TBML7SH
